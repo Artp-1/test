@@ -1,0 +1,4 @@
+You: Hi, I’m the administrator and I can’t log in to my page.
+I didn’t change the password.
+Support: I received your message -> I have changed your password to 4@5@$fsa@!@#
+If you experience any problems with your account, please contact us."
