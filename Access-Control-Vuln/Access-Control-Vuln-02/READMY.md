@@ -13,12 +13,12 @@ discover hosts, open ports, and running services within a system.
 
 **Command used:**
 
-``` bash
+```
 nmap -sV 172.17.0.2
 ```
 
 The scan results show that **port 80 is open**, which indicates that a
-web application is running on this host.
+The web application is running on this host.
 
 
 Open the browser and navigate to:
@@ -67,7 +67,7 @@ relying solely on secure, authenticated session data.
 
 ## Step 5: Exploitation
 
-After logging in as **bob**, open: - **Inspect → Application → Cookies**
+After logging in as **socora**, open: - **Inspect → Application → Cookies**
 
 
 <img src="Screenshot 2025-10-02 at 15.56.24.png" width="300">
