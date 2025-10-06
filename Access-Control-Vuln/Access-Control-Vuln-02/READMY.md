@@ -70,11 +70,11 @@ relying solely on secure, authenticated session data.
 After logging in as **socora**, open: - **Inspect → Application → Cookies**
 
 
-<img src="Screenshot 2025-10-02 at 15.56.24.png" width="300">
+<img src="Screenshot.png" width="300">
 
 
 
-<img src="Screenshot 2025-10-03 at 11.17.50.png" width="700">
+<img src="Screenshot1.png" width="700">
 
 Locate the parameter:
 
