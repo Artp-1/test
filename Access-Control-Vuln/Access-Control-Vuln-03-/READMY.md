@@ -68,6 +68,8 @@ In Burp Suite, you’ll see a **POST request** like this:
 email=maria%40example.com
 ```
 
+![My Photo](Secreenshot3.png)
+
 The vulnerability lies in the fact that the application also accepts a **hidden parameter** called `roleid`.
 
 ```
@@ -79,7 +81,7 @@ So, modify the request as follows:
 ```
 email=maria%40example.com&roleid=1
 ```
-![My Photo](unknown.png)
+<img src="Screenshot2.png" alt="Screenshot" width="600">
 
 
 Then **Forward** the request and refresh the page.
