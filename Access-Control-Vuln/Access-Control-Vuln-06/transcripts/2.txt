@@ -1,6 +1,0 @@
-You: Hi, the contact form on the website isn’t working.
-Support: I received your message -> Thanks for letting us know! Can you tell me what happens when you try to submit it?
-You: It just loads forever and never confirms.
-Support: I received your message -> I see. We’ll check the server logs and fix the issue. We’ll update you once it’s resolved.
-You: Okay, appreciate the help.
-Support: I received your message -> Anytime! Thanks for your patience.
